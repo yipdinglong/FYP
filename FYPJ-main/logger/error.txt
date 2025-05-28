@@ -1,0 +1,311 @@
+2022-03-22 14:51:47 Requesting Approve account by username: fyp2_test2 ===
+2022-03-22 14:51:47 ERROR : Error: Request failed with status code 403
+2022-03-22 14:51:47 Request failed
+2022-03-22 14:55:53 Requesting Approve account by username: fyp2_test3 ===
+2022-03-22 14:55:53 ERROR : Error: Request failed with status code 403
+2022-03-22 14:55:53 Request failed
+2022-03-22 14:57:56 Requesting Reject account by username: fyp2_test2 ===
+2022-03-22 14:57:56 config ERROR : Assignment to constant variable.
+2022-03-22 14:57:56 Request failed
+2022-03-22 15:07:40 Requesting Get All Users by username: fyp2_test1 ===
+2022-03-22 15:07:40 ERROR : TypeError: Cannot use 'in' operator to search for 'errorType' in null
+2022-03-22 15:07:40 Request failed
+2022-03-22 15:08:16 Requesting Get All Users by username: fyp2_test1 ===
+2022-03-22 15:08:16 ERROR : TypeError: Cannot read properties of null (reading 'errorType')
+2022-03-22 15:08:16 Request failed
+2022-03-22 15:08:30 Requesting Get All Users by username: fyp2_test1 ===
+2022-03-22 15:08:30 ERROR : TypeError: Cannot read properties of null (reading 'errorType')
+2022-03-22 15:08:30 Request failed
+2022-03-22 15:08:45 Requesting Get All Users by username: fyp2_test1 ===
+2022-03-22 15:08:45 ERROR : TypeError: Cannot read properties of null (reading 'errorType')
+2022-03-22 15:08:45 Request failed
+2022-03-22 15:09:31 Requesting Get All Users by username: fyp2_test1 ===
+2022-03-22 15:09:31 Script ERROR : TypeError: Cannot read properties of null (reading 'errorType')
+2022-03-22 15:09:31 Request failed
+2022-03-22 15:09:50 Requesting Get All Users by username: fyp2_test1 ===
+2022-03-22 15:09:50 Script ERROR : TypeError: Cannot read properties of null (reading 'errorType')
+2022-03-22 15:09:50 Request failed
+2022-03-22 15:10:14 Requesting Get All Users by username: fyp2_test1 ===
+2022-03-22 15:10:14 Script ERROR : TypeError: Cannot read properties of null (reading 'errorType')
+2022-03-22 15:10:14 Request failed
+2022-03-22 15:12:01 Requesting Get All Users by username: fyp2_test1 ===
+2022-03-22 15:12:01 Script ERROR : TypeError: Cannot read properties of null (reading 'errorType')
+2022-03-22 15:12:01 Request failed
+2022-03-22 15:15:40 Requesting Get All Users by username: manager ===
+2022-03-22 15:15:40 Requesting Get All Users by username: manager ===
+2022-03-22 15:15:40 Script ERROR : ReferenceError: error is not defined
+2022-03-22 15:15:40 Request failed
+2022-03-22 15:16:29 Requesting Get All Users by username: manager ===
+2022-03-22 15:16:29 ERROR : {"email_verified":"true","name":"manager","unit_id":2,"preferred_username":"manager","email":"pshbase@gmail.com","group":"Manager","username":"manager","UserCreateDate":"2021-03-30T02:40:35.040Z","UserLastModifiedDate":"2021-10-26T08:12:24.855Z","status":true,"UserStatus":"CONFIRMED","unit_name":"2nd","camp_id":1,"camp_name":"Kranji","base_id":1,"base_name":"North","service_name":"Army","service_id":1,"level_name":"Army / North / Kranji / 2nd","stores":[{"id":1,"name":"Alpha Outfield","company_id":2},{"id":149,"name":"Bravo Outfield","company_id":3},{"id":166,"name":"Alpha Community","company_id":2},{"id":167,"name":"Bravo Community","company_id":3},{"id":347,"name":"1","company_id":2},{"id":348,"name":"fyp_s0_b0_ca0_u0_co3_store2","company_id":2},{"id":349,"name":"Yan","company_id":2},{"id":350,"name":"yasuo","company_id":2},{"id":351,"name":"test","company_id":2},{"id":352,"name":"Testing","company_id":2},{"id":353,"name":"yone","company_id":2},{"id":354,"name":"yone","company_id":2},{"id":355,"name":"yone","company_id":2},{"id":356,"name":"TestingBin","company_id":2},{"id":357,"name":"Yan Peng","company_id":2},{"id":358,"name":"Yan Peng","company_id":2},{"id":483,"name":"fyp1_store1234","company_id":2},{"id":504,"name":"Zula bin","company_id":2},{"id":505,"name":"Bravo Station","company_id":3},{"id":506,"name":"Alpha Outfield 2","company_id":2},{"id":507,"name":"Alpha Test Number 2","company_id":2},{"id":508,"name":"testing reject","company_id":2},{"id":509,"name":"testing reject","company_id":2},{"id":510,"name":"Testing reject","company_id":2},{"id":511,"name":"test 2","company_id":2},{"id":512,"name":"Alpha Test 4","company_id":2},{"id":513,"name":"Bravo Station","company_id":3},{"id":514,"name":"Alpha Connection","company_id":2},{"id":515,"name":"Bravo Community","company_id":3},{"id":516,"name":"Bravo Community","company_id":3},{"id":524,"name":"Medical","company_id":224},{"id":525,"name":"Alpha Backup","company_id":2},{"id":526,"name":"Alpha Outfield 2","company_id":2},{"id":527,"name":"Bravo Outfield 2","company_id":3},{"id":528,"name":"Alpha Node","company_id":2},{"id":529,"name":"Bravo Node","company_id":3},{"id":530,"name":"New Alpha","company_id":2},{"id":532,"name":"Bravo Connection","company_id":3},{"id":533,"name":"Delta","company_id":2},{"id":534,"name":"KK","company_id":2},{"id":535,"name":"Alpha Outfield","company_id":2},{"id":536,"name":"Medical","company_id":224},{"id":548,"name":"rftgy","company_id":2},{"id":550,"name":"testing1","company_id":2},{"id":551,"name":"testing2","company_id":2},{"id":552,"name":"testing3","company_id":224}]}
+2022-03-22 15:16:29 Request failed
+2022-03-22 15:17:20 Requesting Get All Users by username: fyp2_test1 ===
+2022-03-22 15:17:20 Script ERROR : TypeError: Cannot read properties of null (reading 'errorType')
+2022-03-22 15:17:20 Request failed
+2022-03-22 15:18:53 Requesting Get All Users by username: fyp2_test1 ===
+2022-03-22 15:18:53 ERROR : null
+2022-03-22 15:18:53 Request failed
+2022-03-22 15:51:42 Requesting Add New Base User with username: fyp2_b1 and email: fypj2xhdlg+1@gmail.com
+2022-03-22 15:51:42 ERROR: {"errorType":"UsernameExistsException","errorMessage":"User account already exists","trace":["UsernameExistsException: User account already exists","    at Request.extractError (/var/runtime/node_modules/aws-sdk/lib/protocol/json.js:52:27)","    at Request.callListeners (/var/runtime/node_modules/aws-sdk/lib/sequential_executor.js:106:20)","    at Request.emit (/var/runtime/node_modules/aws-sdk/lib/sequential_executor.js:78:10)","    at Request.emit (/var/runtime/node_modules/aws-sdk/lib/request.js:686:14)","    at Request.transition (/var/runtime/node_modules/aws-sdk/lib/request.js:22:10)","    at AcceptorStateMachine.runTo (/var/runtime/node_modules/aws-sdk/lib/state_machine.js:14:12)","    at /var/runtime/node_modules/aws-sdk/lib/state_machine.js:26:10","    at Request.<anonymous> (/var/runtime/node_modules/aws-sdk/lib/request.js:38:9)","    at Request.<anonymous> (/var/runtime/node_modules/aws-sdk/lib/request.js:688:12)","    at Request.callListeners (/var/runtime/node_modules/aws-sdk/lib/sequential_executor.js:116:18)"]}
+2022-03-22 15:51:42 Request failed
+2022-03-22 16:08:20 Requesting Add New Base User with username: fyp2_a_b1 and email: fypj2xhdlg+2@gmail.com
+2022-03-22 16:08:20 ERROR: {"errorType":"UsernameExistsException","errorMessage":"User account already exists","trace":["UsernameExistsException: User account already exists","    at Request.extractError (/var/runtime/node_modules/aws-sdk/lib/protocol/json.js:52:27)","    at Request.callListeners (/var/runtime/node_modules/aws-sdk/lib/sequential_executor.js:106:20)","    at Request.emit (/var/runtime/node_modules/aws-sdk/lib/sequential_executor.js:78:10)","    at Request.emit (/var/runtime/node_modules/aws-sdk/lib/request.js:686:14)","    at Request.transition (/var/runtime/node_modules/aws-sdk/lib/request.js:22:10)","    at AcceptorStateMachine.runTo (/var/runtime/node_modules/aws-sdk/lib/state_machine.js:14:12)","    at /var/runtime/node_modules/aws-sdk/lib/state_machine.js:26:10","    at Request.<anonymous> (/var/runtime/node_modules/aws-sdk/lib/request.js:38:9)","    at Request.<anonymous> (/var/runtime/node_modules/aws-sdk/lib/request.js:688:12)","    at Request.callListeners (/var/runtime/node_modules/aws-sdk/lib/sequential_executor.js:116:18)"]}
+2022-03-22 16:08:20 Request failed
+2022-03-23 13:36:09 Requesting Update account with username username: fyp2_m_b1 ===
+2022-03-23 13:36:09 ERROR : {"errorType":"UserNotFoundException","errorMessage":"User does not exist.","trace":["UserNotFoundException: User does not exist.","    at Request.extractError (/var/runtime/node_modules/aws-sdk/lib/protocol/json.js:52:27)","    at Request.callListeners (/var/runtime/node_modules/aws-sdk/lib/sequential_executor.js:106:20)","    at Request.emit (/var/runtime/node_modules/aws-sdk/lib/sequential_executor.js:78:10)","    at Request.emit (/var/runtime/node_modules/aws-sdk/lib/request.js:686:14)","    at Request.transition (/var/runtime/node_modules/aws-sdk/lib/request.js:22:10)","    at AcceptorStateMachine.runTo (/var/runtime/node_modules/aws-sdk/lib/state_machine.js:14:12)","    at /var/runtime/node_modules/aws-sdk/lib/state_machine.js:26:10","    at Request.<anonymous> (/var/runtime/node_modules/aws-sdk/lib/request.js:38:9)","    at Request.<anonymous> (/var/runtime/node_modules/aws-sdk/lib/request.js:688:12)","    at Request.callListeners (/var/runtime/node_modules/aws-sdk/lib/sequential_executor.js:116:18)"]}
+2022-03-23 13:36:09 Request failed
+2022-03-23 13:41:15 ERROR : Error: Request failed with status code 400
+2022-03-23 13:41:15 Request failed
+2022-03-23 14:04:14 Requesting Add New Base User with username: fyp2_test3 and email: 202879bnyp+3@gmail.com
+2022-03-23 14:04:14 ERROR: {"errorType":"UsernameExistsException","errorMessage":"User account already exists","trace":["UsernameExistsException: User account already exists","    at Request.extractError (/var/runtime/node_modules/aws-sdk/lib/protocol/json.js:52:27)","    at Request.callListeners (/var/runtime/node_modules/aws-sdk/lib/sequential_executor.js:106:20)","    at Request.emit (/var/runtime/node_modules/aws-sdk/lib/sequential_executor.js:78:10)","    at Request.emit (/var/runtime/node_modules/aws-sdk/lib/request.js:686:14)","    at Request.transition (/var/runtime/node_modules/aws-sdk/lib/request.js:22:10)","    at AcceptorStateMachine.runTo (/var/runtime/node_modules/aws-sdk/lib/state_machine.js:14:12)","    at /var/runtime/node_modules/aws-sdk/lib/state_machine.js:26:10","    at Request.<anonymous> (/var/runtime/node_modules/aws-sdk/lib/request.js:38:9)","    at Request.<anonymous> (/var/runtime/node_modules/aws-sdk/lib/request.js:688:12)","    at Request.callListeners (/var/runtime/node_modules/aws-sdk/lib/sequential_executor.js:116:18)"]}
+2022-03-23 14:04:14 Request failed
+2022-03-25 16:00:20 Requesting Reject account by username: fyp2_test6 ===
+2022-03-25 16:00:20 config ERROR : Assignment to constant variable.
+2022-03-25 16:00:20 Request failed
+2022-03-25 16:01:50 Requesting Reject account by username: fyp2_test6 ===
+2022-03-25 16:02:20 Requesting Reject account by username: fyp2_test6 ===
+2022-03-25 16:03:06 Requesting Reject account by username: fyp2_test6 ===
+2022-03-25 16:03:06 config ERROR : Assignment to constant variable.
+2022-03-25 16:03:06 Request failed
+2022-03-25 16:04:14 Requesting Reject account by username: fyp2_test6 ===
+2022-03-25 16:04:14 config ERROR : Assignment to constant variable.
+2022-03-25 16:04:14 Request failed
+2022-03-25 16:04:29 Requesting Reject account by username: fyp2_test6 ===
+2022-03-25 16:04:29 config ERROR : Assignment to constant variable.
+2022-03-25 16:04:29 Request failed
+2022-03-25 16:04:44 Requesting Reject account by username: fyp2_test6 ===
+2022-03-25 16:04:44 config ERROR : Assignment to constant variable.
+2022-03-25 16:04:44 Request failed
+2022-03-25 16:05:12 Requesting Reject account by username: fyp2_test6 ===
+2022-03-25 16:05:12 config ERROR : Assignment to constant variable.
+2022-03-25 16:05:12 Request failed
+2022-03-25 16:05:32 Requesting Reject account by username: fyp2_test6 ===
+2022-03-25 16:05:32 config ERROR : Assignment to constant variable.
+2022-03-25 16:05:32 Request failed
+2022-03-25 16:05:50 Requesting Reject account by username: fyp2_test6 ===
+2022-03-25 16:05:50 config ERROR : Assignment to constant variable.
+2022-03-25 16:05:50 Request failed
+2022-03-25 16:06:46 Requesting Reject account by username: fyp2_test6 ===
+2022-03-25 16:06:46 config ERROR : Assignment to constant variable.
+2022-03-25 16:06:46 Request failed
+2022-03-28 13:12:58 Requesting Reject account by username: fyp2_test6 ===
+2022-03-28 13:12:58 config ERROR : Assignment to constant variable.
+2022-03-28 13:12:58 Request failed
+2022-03-30 10:54:04 Requesting Reject account by username: fyp2_test6 ===
+2022-03-30 10:54:04 config ERROR : Assignment to constant variable.
+2022-03-30 10:54:04 Request failed
+2022-03-30 10:55:37 Requesting Reject account by username: fyp2_test6 ===
+2022-03-30 11:02:14 Requesting Reject account by username: fyp2_test6 ===
+2022-03-30 11:02:26 Requesting Reject account by username: fyp2_test6 ===
+2022-03-30 13:04:07 Requesting Add New Base User with username: fyp2_test6 and email: 202879bnyp+6@gmail.com
+2022-03-30 13:04:07 ERROR: {"errorType":"UsernameExistsException","errorMessage":"User account already exists","trace":["UsernameExistsException: User account already exists","    at Request.extractError (/var/runtime/node_modules/aws-sdk/lib/protocol/json.js:52:27)","    at Request.callListeners (/var/runtime/node_modules/aws-sdk/lib/sequential_executor.js:106:20)","    at Request.emit (/var/runtime/node_modules/aws-sdk/lib/sequential_executor.js:78:10)","    at Request.emit (/var/runtime/node_modules/aws-sdk/lib/request.js:686:14)","    at Request.transition (/var/runtime/node_modules/aws-sdk/lib/request.js:22:10)","    at AcceptorStateMachine.runTo (/var/runtime/node_modules/aws-sdk/lib/state_machine.js:14:12)","    at /var/runtime/node_modules/aws-sdk/lib/state_machine.js:26:10","    at Request.<anonymous> (/var/runtime/node_modules/aws-sdk/lib/request.js:38:9)","    at Request.<anonymous> (/var/runtime/node_modules/aws-sdk/lib/request.js:688:12)","    at Request.callListeners (/var/runtime/node_modules/aws-sdk/lib/sequential_executor.js:116:18)"]}
+2022-03-30 13:04:07 Request failed
+2022-03-30 15:39:20 Requesting Get All Users by username: fyp2_a_qb1 ===
+2022-03-30 15:39:34 Requesting Get All Users by username: fyp2_a_qb1 ===
+2022-03-30 15:39:34 ERROR : null
+2022-03-30 15:39:34 Request failed
+2022-03-30 15:39:42 Requesting Get All Users by username: fyp2_a_qb1 ===
+2022-03-30 15:39:42 ERROR : null
+2022-03-30 15:39:42 Request failed
+2022-04-04 10:54:20 Requesting Add New Base User with username: fyp2_test6 and email: 202879bnyp+6@gmail.com
+2022-04-04 10:54:20 ERROR: {"errorType":"string","errorMessage":"[BadRequest] Missing company / unit / camp / base / service","trace":[]}
+2022-04-04 10:54:20 Request failed
+2022-04-04 11:02:47 Requesting Add New Base User with username: fyp2_test6 and email: 202879bnyp+6@gmail.com
+2022-04-04 11:02:47 ERROR: {"errorType":"UsernameExistsException","errorMessage":"User account already exists","trace":["UsernameExistsException: User account already exists","    at Request.extractError (/var/runtime/node_modules/aws-sdk/lib/protocol/json.js:52:27)","    at Request.callListeners (/var/runtime/node_modules/aws-sdk/lib/sequential_executor.js:106:20)","    at Request.emit (/var/runtime/node_modules/aws-sdk/lib/sequential_executor.js:78:10)","    at Request.emit (/var/runtime/node_modules/aws-sdk/lib/request.js:686:14)","    at Request.transition (/var/runtime/node_modules/aws-sdk/lib/request.js:22:10)","    at AcceptorStateMachine.runTo (/var/runtime/node_modules/aws-sdk/lib/state_machine.js:14:12)","    at /var/runtime/node_modules/aws-sdk/lib/state_machine.js:26:10","    at Request.<anonymous> (/var/runtime/node_modules/aws-sdk/lib/request.js:38:9)","    at Request.<anonymous> (/var/runtime/node_modules/aws-sdk/lib/request.js:688:12)","    at Request.callListeners (/var/runtime/node_modules/aws-sdk/lib/sequential_executor.js:116:18)"]}
+2022-04-04 11:02:47 Request failed
+2022-04-04 16:55:03 Requesting Add New Base User with username: fyp2_test9 and email: 202879bnyp+9@gmail.com
+2022-04-04 16:55:03 ERROR: {"errorType":"string","errorMessage":"[BadRequest] Missing company / unit / camp / base / service","trace":[]}
+2022-04-04 16:55:03 Request failed
+2022-04-04 16:55:05 Requesting Approve account by username: fyp2_test9 ===
+2022-04-04 16:55:42 Requesting Add New Base User with username: fyp2_test9 and email: 202879bnyp+9@gmail.com
+2022-04-04 16:55:42 ERROR: {"errorType":"string","errorMessage":"[BadRequest] Missing company / unit / camp / base / service","trace":[]}
+2022-04-04 16:55:42 Request failed
+2022-04-04 16:55:44 Requesting Approve account by username: fyp2_test9 ===
+2022-04-08 14:31:23 Requesting Add New Base User with username: fyp2_u1_co3 and email: fypjxhdlg+23@gmail.com
+2022-04-08 14:31:23 ERROR: {"errorType":"UsernameExistsException","errorMessage":"User account already exists","trace":["UsernameExistsException: User account already exists","    at Request.extractError (/var/runtime/node_modules/aws-sdk/lib/protocol/json.js:52:27)","    at Request.callListeners (/var/runtime/node_modules/aws-sdk/lib/sequential_executor.js:106:20)","    at Request.emit (/var/runtime/node_modules/aws-sdk/lib/sequential_executor.js:78:10)","    at Request.emit (/var/runtime/node_modules/aws-sdk/lib/request.js:686:14)","    at Request.transition (/var/runtime/node_modules/aws-sdk/lib/request.js:22:10)","    at AcceptorStateMachine.runTo (/var/runtime/node_modules/aws-sdk/lib/state_machine.js:14:12)","    at /var/runtime/node_modules/aws-sdk/lib/state_machine.js:26:10","    at Request.<anonymous> (/var/runtime/node_modules/aws-sdk/lib/request.js:38:9)","    at Request.<anonymous> (/var/runtime/node_modules/aws-sdk/lib/request.js:688:12)","    at Request.callListeners (/var/runtime/node_modules/aws-sdk/lib/sequential_executor.js:116:18)"]}
+2022-04-08 14:31:23 Request failed
+2022-04-08 14:31:27 Requesting Reject account by username: fyp2_u1_co3 ===
+2022-04-08 14:31:27 config ERROR : Assignment to constant variable.
+2022-04-08 14:31:27 Request failed
+2022-04-08 14:32:06 Requesting Reject account by username: fyp2_u1_co3 ===
+2022-04-08 14:32:06 config ERROR : Assignment to constant variable.
+2022-04-08 14:32:06 Request failed
+2022-04-08 14:32:59 Requesting Reject account by username: fyp2_u1_co3 ===
+2022-04-08 14:32:59 config ERROR : Assignment to constant variable.
+2022-04-08 14:32:59 Request failed
+2022-04-24 15:25:05 Requesting Add New Base User with username: fyp2_u2_co3 and email: fypj2xhdlg+24@gmail.com
+2022-04-24 15:25:56 Requesting Reject account by username: fyp2_u2_co3 ===
+2022-04-26 10:53:51 Requesting Add New Base User with username: fyp2_test9 and email: 202879bnyp+9@gmail.com
+2022-04-26 11:14:00 Requesting Add New Base User with username: fyp2_test9 and email: 202879bnyp+9@gmail.com
+2022-04-26 11:28:11 Requesting Add New Base User with username: fyp2_test10 and email: 202879bnyp+10@gmail.com
+2022-04-26 11:29:10 Requesting Add New Base User with username: fyp2_test10 and email: 202879bnyp+10@gmail.com
+2022-04-26 13:27:40 Requesting Add New Base User with username: fyp2_test16 and email: 202879bnyp+16@gmail.com
+2022-04-27 16:23:00 Requesting Add New Base User with username: fyp2_u3_co3 and email: fypjxhdlg+25@gmail.com
+2022-04-27 16:44:21 Requesting Reject account by username: fyp2_u5_co3 ===
+2022-05-05 14:24:45 Requesting Add New Base User with username: fyp2_u11_co3 and email: fypj2xhdlg+33@gmail.com
+2022-05-08 23:21:20 Requesting to add fyp2_testitem item ===
+2022-05-08 23:21:20 ERROR : [BadRequest] Invalid Input
+2022-05-08 23:21:20 Request failed
+2022-05-08 23:21:41 Requesting to add fyp2_testitem item ===
+2022-05-08 23:22:46 ERROR: [BadRequest] Invalid category
+2022-05-08 23:24:02 Requesting to add fyp2_testitem item ===
+2022-05-08 23:25:04 ERROR: [BadRequest] Invalid category
+2022-05-08 23:25:17 ERROR: [BadRequest] Invalid category
+2022-05-08 23:25:21 ERROR: [BadRequest] Invalid category
+2022-05-08 23:25:29 ERROR: [BadRequest] Invalid category
+2022-05-08 23:27:01 ERROR: [BadRequest] Invalid category
+2022-05-08 23:27:36 ERROR: [BadRequest] Invalid category
+2022-05-08 23:28:13 ERROR: [BadRequest] Invalid category
+2022-05-08 23:28:42 ERROR: [BadRequest] Invalid category
+2022-05-08 23:29:30 ERROR: [BadRequest] Invalid category
+2022-05-08 23:35:00 Requesting to add fyp2_testitem item ===
+2022-05-08 23:35:40 Requesting to add fyp2_testitem item ===
+2022-05-08 23:35:40 ERROR : ER_DUP_ENTRY: Duplicate entry '000000057' for key 'items.PRIMARY'
+2022-05-08 23:35:40 Request failed
+2022-05-08 23:37:42 ERROR: [BadRequest] Invalid category
+2022-05-08 23:37:51 Requesting to add fyp2_testitem item ===
+2022-05-08 23:37:51 ERROR : ER_DUP_ENTRY: Duplicate entry '000000057' for key 'items.PRIMARY'
+2022-05-08 23:37:51 Request failed
+2022-05-08 23:39:32 ERROR: [BadRequest] Invalid category
+2022-05-08 23:39:42 Requesting to add fyp2_testitem item ===
+2022-05-08 23:40:23 ERROR: [BadRequest] Invalid category
+2022-05-08 23:40:36 Requesting to add fyp2_testitem item ===
+2022-05-08 23:40:36 ERROR : ER_DUP_ENTRY: Duplicate entry '000000058' for key 'items.PRIMARY'
+2022-05-08 23:40:36 Request failed
+2022-05-08 23:41:01 Requesting to add fyp2_testitem item ===
+2022-05-08 23:43:27 Requesting to add fyp2_testitem item ===
+2022-05-08 23:43:27 ERROR : ER_DUP_ENTRY: Duplicate entry '000000050' for key 'items.PRIMARY'
+2022-05-08 23:43:27 Request failed
+2022-05-08 23:43:41 Requesting to add fyp2_testitem item ===
+2022-05-08 23:44:15 Requesting to add fyp2_testitem item ===
+2022-05-08 23:46:11 Requesting to add fyp2_testitem item ===
+2022-05-08 23:46:11 ERROR : ER_DUP_ENTRY: Duplicate entry '000000061' for key 'items.PRIMARY'
+2022-05-08 23:46:11 Request failed
+2022-05-08 23:46:24 Requesting to add fyp2_testitem item ===
+2022-05-08 23:52:16 Requesting to add fyp2_testitem item ===
+2022-05-08 23:53:18 Requesting to add fyp2_testitem item ===
+2022-05-08 23:55:06 Requesting to add fyp2_testitem item ===
+2022-05-09 10:02:37 Requesting to add fyp2_s23 Store ===
+2022-05-09 10:16:05 Requesting to add fyp2_s24 Store ===
+2022-05-09 10:16:48 Requesting to add fyp2_s24 Store ===
+2022-05-09 10:17:22 Requesting to add fyp2_s24 Store ===
+2022-05-09 10:18:20 Requesting to add fyp2_s24 Store ===
+2022-05-09 10:20:28 Requesting to add fyp2_s25 Store ===
+2022-05-09 15:38:41 ERROR: [BadRequest] Invalid category
+2022-05-09 15:39:10 Requesting to add fyp2_testitem item ===
+2022-05-09 15:39:10 ERROR : ER_DUP_ENTRY: Duplicate entry '000000067' for key 'items.PRIMARY'
+2022-05-09 15:39:10 Request failed
+2022-05-10 13:46:56 ERROR: [BadRequest] Invalid category
+2022-05-10 13:47:45 Requesting to add fyp2_s28 Store ===
+2022-05-10 13:50:12 Requesting to add fyp2_s28 Store ===
+2022-05-10 13:50:55 Requesting to add fyp2_s28 Store ===
+2022-05-10 13:52:28 Requesting to add fyp2_s28 Store ===
+2022-05-10 13:52:28 ERROR : [BadRequest] Storage Bin already exists
+2022-05-10 13:52:28 Request failed
+2022-05-10 13:53:22 Requesting to add fyp2_s28 Store ===
+2022-05-10 13:53:22 ERROR : [BadRequest] Storage Bin already exists
+2022-05-10 13:53:22 Request failed
+2022-05-10 13:56:34 Requesting to add fyp2_s29 Store ===
+2022-05-10 13:56:34 ERROR : [BadRequest] Storage Bin already exists
+2022-05-10 13:56:34 Request failed
+2022-05-10 13:56:49 Requesting to add fyp2_s29 Store ===
+2022-05-10 13:56:49 ERROR : [BadRequest] Storage Bin already exists
+2022-05-10 13:56:49 Request failed
+2022-05-10 13:57:09 Requesting to add fyp2_s29 Store ===
+2022-05-10 13:57:09 ERROR : [BadRequest] Storage Bin already exists
+2022-05-10 13:57:09 Request failed
+2022-05-10 13:57:16 Requesting to add fyp2_s29 Store ===
+2022-05-10 13:57:16 ERROR : [BadRequest] Storage Bin already exists
+2022-05-10 13:57:16 Request failed
+2022-05-10 13:57:27 Requesting to add fyp2_s29 Store ===
+2022-05-10 13:57:27 ERROR : [BadRequest] Storage Bin already exists
+2022-05-10 13:57:27 Request failed
+2022-05-10 13:58:40 Requesting to add fyp2_s29 Store ===
+2022-05-10 13:58:40 ERROR : [BadRequest] Storage Bin already exists
+2022-05-10 13:58:40 Request failed
+2022-05-10 13:59:12 Requesting to add fyp2_s29 Store ===
+2022-05-10 13:59:12 ERROR : [BadRequest] Storage Bin already exists
+2022-05-10 13:59:12 Request failed
+2022-05-10 13:59:23 Requesting to add fyp2_s29 Store ===
+2022-05-10 13:59:23 ERROR : [BadRequest] Storage Bin already exists
+2022-05-10 13:59:23 Request failed
+2022-05-10 14:02:34 Requesting to add fyp2_s29 Store ===
+2022-05-10 14:02:49 Requesting to add fyp2_s29 Store ===
+2022-05-10 14:03:17 Requesting to add fyp2_s29 Store ===
+2022-05-10 14:03:57 Requesting to add fyp2_s29 Store ===
+2022-05-10 14:21:58 Requesting to add fyp2_s29 Store ===
+2022-05-10 14:27:41 Requesting to add fyp2_s30 Store ===
+2022-05-16 14:04:36 Requesting to add fyp2_testitem item ===
+2022-05-16 17:53:29 Requesting to add fyp2_testitem item ===
+2022-05-16 17:53:29 ERROR : ER_DUP_ENTRY: Duplicate entry '000000102' for key 'items.PRIMARY'
+2022-05-16 17:53:29 Request failed
+2022-05-16 17:54:22 ERROR: [BadRequest] Invalid category
+2022-05-16 17:54:42 ERROR: [BadRequest] Invalid category
+2022-05-16 17:55:25 ERROR: [BadRequest] Invalid category
+2022-05-16 17:55:34 ERROR: [BadRequest] Invalid category
+2022-05-16 17:55:48 ERROR: [BadRequest] Invalid category
+2022-05-16 17:55:55 ERROR: [BadRequest] Invalid category
+2022-05-16 17:55:57 Requesting to add fyp2_testitem item ===
+2022-05-16 22:02:48 Requesting to remove stock at the store with id 560 and 000000101 item ===
+2022-05-16 22:06:42 Requesting to remove stock at the store with id 560 and 000000101 item ===
+2022-05-16 22:08:55 Requesting to remove stock at the store with id 560 and 000000101 item ===
+2022-05-16 22:09:07 Requesting to remove stock at the store with id 560 and 000000101 item ===
+2022-05-16 22:09:29 Requesting to remove stock at the store with id 560 and 000000101 item ===
+2022-05-16 22:09:44 Requesting to remove stock at the store with id 560 and 000000101 item ===
+2022-05-16 22:09:54 Requesting to remove stock at the store with id 560 and 000000101 item ===
+2022-05-16 22:11:14 Requesting to remove stock at the store with id 560 and 000000101 item ===
+2022-05-16 22:11:34 Requesting to remove stock at the store with id 560 and 000000101 item ===
+2022-05-16 22:11:47 Requesting to remove stock at the store with id 560 and 000000101 item ===
+2022-05-16 22:13:22 Requesting to remove stock at the store with id 560 and 000000101 item ===
+2022-05-16 22:43:28 Requesting to add Stock to item with the nsn number of 000000103 ===
+2022-05-16 22:43:28 ERROR : [Unauthorized] User is not authorized to manage this store
+2022-05-16 22:43:28 Request failed
+2022-05-16 22:43:29 Requesting to remove stock at the store with id 560 and 000000103 item ===
+2022-05-16 22:43:29 ERROR : [Unauthorized] User is not authorized to manage this store
+2022-05-16 22:43:29 Request failed
+2022-05-16 22:44:09 Requesting to add Stock to item with the nsn number of 000000103 ===
+2022-05-16 22:44:09 ERROR : [Unauthorized] User is not authorized to manage this store
+2022-05-16 22:44:09 Request failed
+2022-05-16 22:44:09 Requesting to remove stock at the store with id 560 and 000000103 item ===
+2022-05-16 22:44:09 ERROR : [Unauthorized] User is not authorized to manage this store
+2022-05-16 22:44:09 Request failed
+2022-05-16 22:44:40 Requesting to add Stock to item with the nsn number of 000000103 ===
+2022-05-16 22:44:40 ERROR : [Unauthorized] User is not authorized to manage this store
+2022-05-16 22:44:40 Request failed
+2022-05-16 22:44:40 Requesting to remove stock at the store with id 560 and 000000103 item ===
+2022-05-16 22:44:40 ERROR : [Unauthorized] User is not authorized to manage this store
+2022-05-16 22:44:40 Request failed
+2022-05-16 22:45:04 Requesting to add Stock to item with the nsn number of 000000103 ===
+2022-05-16 22:45:04 ERROR : [Unauthorized] User is not authorized to manage this store
+2022-05-16 22:45:04 Request failed
+2022-05-16 22:45:04 Requesting to remove stock at the store with id 560 and 000000103 item ===
+2022-05-16 22:45:04 ERROR : [Unauthorized] User is not authorized to manage this store
+2022-05-16 22:45:04 Request failed
+2022-05-16 22:47:13 Requesting to add Stock to item with the nsn number of 000000103 ===
+2022-05-16 22:47:13 ERROR : [Unauthorized] User is not authorized to manage this store
+2022-05-16 22:47:13 Request failed
+2022-05-16 22:47:14 Requesting to remove stock at the store with id 560 and 000000103 item ===
+2022-05-16 22:47:14 ERROR : [Unauthorized] User is not authorized to manage this store
+2022-05-16 22:47:14 Request failed
+2022-05-16 22:50:08 Requesting to add Stock to item with the nsn number of 000000103 ===
+2022-05-16 22:50:08 ERROR : [Unauthorized] User is not authorized to manage this store
+2022-05-16 22:50:08 Request failed
+2022-05-16 22:50:08 Requesting to remove stock at the store with id 560 and 000000103 item ===
+2022-05-16 22:50:08 ERROR : [Unauthorized] User is not authorized to manage this store
+2022-05-16 22:50:08 Request failed
+2022-05-16 22:51:14 Requesting to add Stock to item with the nsn number of 000000103 ===
+2022-05-16 22:51:14 ERROR : [Unauthorized] User is not authorized to manage this store
+2022-05-16 22:51:14 Request failed
+2022-05-16 22:51:14 Requesting to remove stock at the store with id 560 and 000000103 item ===
+2022-05-16 22:51:14 ERROR : [Unauthorized] User is not authorized to manage this store
+2022-05-16 22:51:14 Request failed
+2022-05-20 10:46:04 ERROR: Error: Request failed with status code 400
+2022-05-20 10:46:19 Requesting Add New User with username: testA2_a1_b1 and email: fypj2xhdlg+249@gmail.com
+2022-05-20 10:47:50 Requesting Add New User with username: testA3_a_ca1 and email: fypj2xhdlg+250@gmail.com
+2022-05-20 11:43:00 Requesting Add New User with username: testA5_a1_b1 and email: fypj2xhdlg+256@gmail.com
+2022-05-20 11:44:29 Requesting Add New User with username: testA6_a_ca1 and email: fypj2xhdlg+257@gmail.com
+2022-05-20 11:47:34 Requesting Add New User with username: testA7_a_ca1 and email: fypj2xhdlg+263@gmail.com
+2022-05-20 12:09:01 Requesting Add New User with username: testA8_a_ca1 and email: fypj2xhdlg+269@gmail.com
+2022-05-20 12:11:50 Requesting Add New User with username: testA10_a1_b1 and email: fypj2xhdlg+275@gmail.com
+2022-05-20 12:13:40 Requesting Add New User with username: testA11_a_ca1 and email: fypj2xhdlg+276@gmail.com
+2022-05-20 12:25:56 Requesting Add New User with username: testA12_a_ca1 and email: fypj2xhdlg+282@gmail.com
+2022-05-20 12:30:01 Requesting Add New User with username: testA14_a1_b1 and email: fypj2xhdlg+288@gmail.com

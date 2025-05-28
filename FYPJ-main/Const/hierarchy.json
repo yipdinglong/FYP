@@ -1,0 +1,48 @@
+{
+    "group": "fyp22p1_",
+    "base": { "id": 328, "users": { "admin": { "email": "fypj2xhdlg+127@gmail.com", "username": "fyp22p1__a_b1" } } },
+    "camp": { "id": 254, "users": { "admin": { "email": "fypj2xhdlg+128@gmail.com", "username": "fyp22p1__a_ca1" } } },
+    "unit1": {
+        "id": 461,
+        "users": {
+            "admin": { "email": "fypj2xhdlg+129@gmail.com", "username": "fyp22p1__a_u1" },
+            "manager": { "email": "fypj2xhdlg+130@gmail.com", "username": "fyp22p1__m_u1" }
+        }
+    },
+    "unit2": { "id": 462, "users": { "user": { "email": "fypj2xhdlg+131@gmail.com", "username": "fyp22p1__u_u2" } } },
+    "company1": {
+        "id": 310,
+        "users": {
+            "admin": { "email": "fypj2xhdlg+132@gmail.com", "username": "fyp22p1__a_co1" },
+            "manager1": { "email": "fypj2xhdlg+133@gmail.com", "username": "fyp22p1__m1_co1" },
+            "manager2": { "email": "fypj2xhdlg+134@gmail.com", "username": "fyp22p1__m2_co1" },
+            "user1": { "email": "fypj2xhdlg+135@gmail.com", "username": "fyp22p1__u1_co1", "storeAccess": [601, 602] },
+            "user2": { "email": "fypj2xhdlg+136@gmail.com", "username": "fyp22p1__u2_co1", "storeAccess": [602] }
+        },
+        "stores": {
+            "store1": { "name": "fyp22p1__s11", "id": 601 },
+            "store2": { "name": "fyp22p1__s12", "id": 602 }
+        }
+    },
+    "company2": {
+        "id": 311,
+        "users": {
+            "admin": { "email": "fypj2xhdlg+137@gmail.com", "username": "fyp22p1__a_co2" },
+            "manager1": { "email": "fypj2xhdlg+138@gmail.com", "username": "fyp22p1__m1_co2" },
+            "manager2": { "email": "fypj2xhdlg+139@gmail.com", "username": "fyp22p1__m2_co2" },
+            "user1": { "email": "fypj2xhdlg+140@gmail.com", "username": "fyp22p1__u1_co2" },
+            "user2": { "email": "fypj2xhdlg+141@gmail.com", "username": "fyp22p1__u2_co2", "storeAccess": [603, 604] }
+        }, 
+        "stores": {
+            "store1": { "name": "fyp22p1__s21", "id": 603 },
+            "store2": { "name": "fyp22p1__s22", "id": 604 }
+        }
+    },
+    "company3": {
+        "id": 312,
+        "users": {
+            "manager": { "email": "fypj2xhdlg+142@gmail.com", "username": "fyp22p1__m_co3" },
+            "user": { "email": "fypj2xhdlg+143@gmail.com", "username": "fyp22p1__u_co3" }
+        }
+    }
+}
